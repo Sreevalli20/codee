@@ -1,0 +1,5 @@
+{
+  "name": "Hotel Reservation System",
+  "description": "A hotel room booking system with travel time optimization across 10 floors.",
+  "requestFramePermissions": []
+}
